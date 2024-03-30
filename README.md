@@ -9,14 +9,12 @@ Analysis of the 2023 Conference Board Survey
 # Overview
 ## Key Findings
 
-### Top Factors Affecting Success in Youtube
+### Average Industrial Production
 ![alt text](https://github.com/monacosc1/global-youtube-statistics/blob/master/images/top_factors_feature_importance.png) 
 
-### Top Performing Categories
+### Average Value Indicator Flow
 ![alt text](https://github.com/monacosc1/global-youtube-statistics/blob/master/images/total_uploads_video_views_per_category.png) 
 
-### Correlation Between Subscribers and Monthly Earnings
+### Unique Indicators by Type
 ![alt text](https://github.com/monacosc1/global-youtube-statistics/blob/master/images/scatter_plot.png) 
 
-### Geo Plot of Subscribers vs. Views
-![alt text](https://github.com/monacosc1/global-youtube-statistics/blob/master/images/geo_plot.png)
