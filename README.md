@@ -10,11 +10,11 @@ Analysis of the 2023 Conference Board Survey
 ## Key Findings
 
 ### Average Industrial Production
-![alt text](https://github.com/monacosc1/global-youtube-statistics/blob/master/images/top_factors_feature_importance.png) 
+![alt text](https://github.com/monacosc1/conference-board-survey/blob/master/images/avg_industrial_production.png) 
 
 ### Average Value Indicator Flow
-![alt text](https://github.com/monacosc1/global-youtube-statistics/blob/master/images/total_uploads_video_views_per_category.png) 
+![alt text](https://github.com/monacosc1/conference-board-survey/blob/master/images/avg_value_indicator_flow.png) 
 
 ### Unique Indicators by Type
-![alt text](https://github.com/monacosc1/global-youtube-statistics/blob/master/images/scatter_plot.png) 
+![alt text](https://github.com/monacosc1/conference-board-survey/blob/master/images/unique_indicators_by_type.png) 
 
